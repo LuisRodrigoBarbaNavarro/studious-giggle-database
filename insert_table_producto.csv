@@ -1,0 +1,61 @@
+id_producto,id_categoria,nombre_producto,descripcion_producto
+159001,2010,Agua Bonafont,"por 100ml - Calorias: 0kcal | Grasa: 0,00g"
+159002,2010,Agua Ciel,"por 100ml - Calorias: 0kcal | Grasa: 0,00g"
+159003,2010,Agua Epura,"por 100ml - Calorias: 0kcal | Grasa: 0,00g"
+159004,2011,Bebida Monster,"por 100ml - Calorias: 49kcal | Grasa: 0,00g"
+159005,2011,Bebida Boost,"por 1 porción (200ml) - Calorias: 102kcal | Grasa: 2,00g"
+159006,2011,Bebida Red Bull,"por 100ml - Calorias: 45kcal | Grasa: 0,00g"
+159007,2014,Minerale Epura,"por 1 botella (600ml) - Calorias: 24kcal | Grasa: 0,00g"
+159008,2014,Peñafiel,"por 100ml - Calorías: 0kcal | Grasa: 0,00g"
+159009,2014,Perrier,"por 100ml - Calorías: 0kcal | Grasa: 0,00g"
+159010,2015,Coca-Cola,"por 1 porción (200ml) - Calorias: 200kcal | Grasa: 2,00g"
+159011,2015,Delaware Punch,"por 1 porción (200ml) - Calorias: 92kcal | Grasa: 1,00g"
+159012,2015,Sprite,"por 1 porción (200ml) - Calorias: 122kcal | Grasa: 1,00g"
+159013,2015,Manzana Lift,"por 1 porción (200ml) - Calorias: 176kcal | Grasa: 1,00g"
+159014,2015,Fanta Sabor Fresa,"por 1 porción (200ml) - Calorias: 112kcal | Grasa: 1,00g"
+159015,2015,Fanta Sabor Uva,"por 1 porción (200ml) - Calorias: 112kcal | Grasa: 1,00g"
+159016,2016,Clasico Nescafe,"por 1 porción (2g) - Calorias: 3kcal | Grasa: 0,01g"
+159017,2016,Coffe-Mate,"por 1 taza - Calorias: 44kcal | Grasa: 0,10g "
+159018,2016,Cafe Lala,"por 1 taza (250ml) - Calorías: 164kcal | Grasa: 4,00g"
+159019,2017,Clasico Nescafe,"por 1 porción (2g) - Calorias: 3kcal | Grasa: 0,01g"
+159020,2017,Coffe-Mate,"por 1 taza - Calorias: 44kcal | Grasa: 0,10g "
+159021,2017,Cafe Lala,"por 1 taza (250ml) - Calorías: 164kcal | Grasa: 4,00g"
+159022,2018,Sandwich,"por 100g - Calorias: 440kcal | Grasa: 15,00g"
+159023,2018,Croissant,"por 1 mediana - Calorias: 231kcal | Grasa: 11,97g"
+159024,2018,Panini Clasico,"por 100g - Calorias: 230kcal | Grasa: 10,00g"
+159025,2019,Gansito,"por 1 pieza (50g) - Calorias: 196kcal | Grasa: 8,00g"
+159026,2019,Chocorroles,"por 1 pieza (40g) - Calorias: 154kcal | Grasa: 6,00g"
+159027,2019,Pinguinos,"por 1 chocorrol (40g) - Calorias: 143kcal | Grasa: 5,00g"
+159028,2020,Principe,"por 1 galleta (11g) - Calorias: 50kcal | Grasa: 1,90g"
+159029,2020,Triki Trakes,"por 1 galleta (9g) - Calorias: 42kcal | Grasa: 2,00g"
+159030,2020,Polvorones,"por 1 galleta (14g) - Calorias: 67kcal | Grasa: 3,00g "
+159031,2020,Barritas Fresa,"por 1 pieza (34g) - Calorias: 151kcal | Grasa: 6,40g"
+159032,2020,Barritas Piña,"por 1 pieza (34g) - Calorias: 151kcal | Grasa: 6,40g"
+159033,2020,Canelitas,"por 1 pieza (6g) - Calorias: 25kcal | Grasa: 1,00g"
+159034,2022,Carlos V,"por 1 barra (19g) - Calorias: 56kcal | Grasa: 5,70g"
+159035,2022,Milkyway,"por 1 barra (19g) - Calorias: 88kcal | Grasa: 5,70g"
+159036,2022,Lunetas,"por 1 barra (19g) - Calorias: 76kcal | Grasa: 5,70g"
+159037,2022,M&Ms,"por 1 barra (19g) - Calorias: 126kcal | Grasa: 5,70g"
+159038,2022,Snickers,"por 1 barra (19g) - Calorias: 96kcal | Grasa: 5,70g"
+159039,2022,Larin,"por 1 barra (19g) - Calorias: 86kcal | Grasa: 5,70g"
+159040,2024,Sabritas Adobadas,"por 1 porción (30g) - Calorias: 144kcal | Grasa: 7,20g "
+159041,2024,Paketaxo Azul,"por 1 porción (55g) - Calorias: 270kcal | Grasa: 14,00g"
+159042,2024,Paketaxo Verde,"por 1 porción (30g) - Calorias: 150kcal | Grasa: 9,50g"
+159043,2024,Doritos,"por 1 porción (30g) - Calorias: 158kcal | Grasa: 10,00g"
+159044,2024,Ruffles,"por 100g - Calorias: 532kcal | Grasa: 33,60g"
+159045,2024,Takis Fuego,"por 1 porción (55g) - Calorias: 270kcal | Grasa: 14,00g"
+159046,2025,Snurkels,"por 1 pieza (40g) - Calorias: 154kcal | Grasa: 6,00g"
+159047,2026,Camiseta Blanca,Sin informacion nutrimental
+159048,2027,Cable Tipo C,Sin informacion nutrimental
+159049,2028,Pluma Bicolor,Sin informacion nutrimental
+159050,2029,Libreta Norma,Sin informacion nutrimental
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
