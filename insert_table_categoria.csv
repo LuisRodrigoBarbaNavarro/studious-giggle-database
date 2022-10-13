@@ -1,0 +1,21 @@
+id_categoria,nombre_categoria,descripcion_categoria
+2010,Botellas de agua,Agua potable envasada en botellas individuales
+2011,Bebidas energeticas,Bebida envasada estimulante en botellas individuales
+2012,Bebidas vitaminadas,Bebidas envasada vitaminada en botellas individuales
+2013,Refrescos dieteticos,Refresco envasado con poco contenido de azucares
+2014,Refrescos mineral,Refresco envasado con caracteristicas minerales
+2015,Refrescos normal,Refresco envasado de consumo popular
+2016,Cafe caliente,Bebida envasada de variantes de cafe caliente
+2017,Cafe frio,Bebida envasada de variantes de cafe frio
+2018,Meriendas,Alimento generalmente ligero que se toma a media tarde
+2019,Pastelillos,Pastelillo de diversos sabores dulces o salados
+2020,Galletas,Producto alimenticio horneado y moldeado a base de harina
+2021,Gelatinas,Mezcla coloide gel de diferentes sabores
+2022,Chocolates,Alimento que se elabora con una pasta de cacao y azucar
+2023,Gominolas,Alimento coloide gel que poseen diferentes sabores
+2024,Papas fritas,Alimento procesado a base de papa con diversos sabores
+2025,Nueces,Semilla comestible con diferentes formas y sabores
+2026,Ropa,Vestimenta adecuada para la institucion
+2027,Electronicos,Tecnologia para satisfacer necesidades de la cotidianidad
+2028,Suministros,Suministro escolar adecuado
+2029,Libretas,Conjunto de hojas de papel

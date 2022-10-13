@@ -1,0 +1,13 @@
+id_maquina,id_institucion,ubicacion,estatus,capacidad
+4010,1010,Edificio 10,Activa,64
+4011,1010,Area Verde 13,Activa,64
+4012,1010,Edificio 14,Activa,64
+4020,1020,Facultad de Derecho,Desactivada,48
+4021,1020,Facultad de Ciencias ,Activa,48
+4022,1020,Facultad de Contabilidad,Activa,64
+4030,1030,Edificio G,Desactivada,48
+4031,1030,Edificio U,Desactivada,64
+4032,1030,Nodo ,Desactivada,64
+4040,1040,Edificio Administrativo,Activa,64
+4041,1040,Servicios Escolares,Desactivada,48
+4042,1040,Posgrado,Activa,48
