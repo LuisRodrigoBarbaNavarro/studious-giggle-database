@@ -1,2 +1,3 @@
 # studious-giggle-database
-Implementación y documentación de base de datos - Taller de Base de Datos
+## version 2.2.x (stable)
+Database implementation and documentation - Database Workshop
