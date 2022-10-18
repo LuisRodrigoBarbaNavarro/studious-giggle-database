@@ -1,3 +1,3 @@
 # studious-giggle-database
-## version 2.2.x (stable)
+## version 2.3.x (semi-stable)
 Database implementation and documentation - Database Workshop
