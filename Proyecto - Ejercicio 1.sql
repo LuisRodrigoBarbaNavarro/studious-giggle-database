@@ -21,11 +21,20 @@ BEGIN
 	-- Tarjeta duplicada.
     DECLARE EXIT HANDLER
     FOR 1062
-    SELECT 'Identificador de tarjeta duplicado.';
+    BEGIN
+		SELECT 'Identificador de tarjeta duplicado.';
+		ROLLBACK;
+    END;
+
     -- Cliente no encontrado.
     DECLARE EXIT HANDLER
     FOR 1452
-    SELECT 'Identificador de cliente no encontrado.';
+    BEGIN
+		SELECT 'Identificador de cliente no encontrado.';
+		ROLLBACK;
+    END;
+    
+    START TRANSACTION;
     SET @puntos = 0;
     SELECT count(*) INTO @conteo FROM tarjeta WHERE tarjeta.id_cliente = id_cliente AND estatus = 'Habilitada';
     IF @conteo > 0
@@ -33,6 +42,7 @@ BEGIN
 	END IF;
     INSERT tarjeta VALUES (id_tarjeta, id_cliente, CURRENT_DATE(), @puntos, 'Habilitada');
     SELECT 'Tarjeta agregada satisfactoriamente.';
+    COMMIT;
 END //
     
 DELIMITER ;

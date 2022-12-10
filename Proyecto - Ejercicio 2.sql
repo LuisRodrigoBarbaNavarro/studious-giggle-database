@@ -83,4 +83,4 @@ DELIMITER ;
 
 -- Demostración
 CALL show_inventory_vending('4010');
-CALL add_product('4010', 159001, 'A01', 2);
+CALL add_product('4010', 159001, 'A02', 8);

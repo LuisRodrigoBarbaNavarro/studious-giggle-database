@@ -26,18 +26,18 @@ begin
     set T_Verify = 0;
     set P_Verify = 0;
     
-    select (buying * precio_unitario) into points_to_pay 
-    from inventario_maquina 
-    where id_maquina = id_maquina_V
-    and id_producto = id_producto_V;
-
     start transaction;
-	select count(*) into M_Verify from inventario_maquina where id_maquina = id_maquina_V;
+	
+    select count(*) into M_Verify from inventario_maquina where id_maquina = id_maquina_V;
 	select count(*) into P_Verify from inventario_maquina where id_maquina = id_maquina_V and id_producto = id_producto_V;
     select count(*) into T_Verify from tarjeta where id_tarjeta = id_tarjeta_V;
     
-    
     if M_Verify > 0 and P_Verify > 0 and T_Verify > 0 then
+    
+	select (buying * precio_unitario) into points_to_pay 
+    from inventario_maquina 
+    where id_maquina = id_maquina_V
+    and id_producto = id_producto_V;
     
     set @message = 'ERROR: Insuficient product.';
     update inventario_maquina 

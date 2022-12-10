@@ -27,7 +27,7 @@ begin
 		end;
 	else
 		/*Dinero total*/
-		select sum(precio_unitario) into Total_Dinero
+		select sum(precio_unitario * cantidad) into Total_Dinero
 		from inventario_maquina
 		inner join maquina using (id_maquina)
 		where id_institucion=id_inst;
